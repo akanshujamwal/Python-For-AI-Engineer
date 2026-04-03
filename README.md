@@ -22,8 +22,8 @@ This repo includes practical examples, Jupyter/Colab notebooks, and hands-on imp
 
 ## 📊 Notebooks
 
-* Google Colab Notebook:
-  👉 https://colab.research.google.com/drive/1FWDPMLYXKqqPOrnYR6iq7aY0GRTrCV1d
+* Lecture 1:
+   https://colab.research.google.com/drive/1FWDPMLYXKqqPOrnYR6iq7aY0GRTrCV1d
 
 ---
 

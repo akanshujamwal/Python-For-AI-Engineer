@@ -24,6 +24,8 @@ This repo includes practical examples, Jupyter/Colab notebooks, and hands-on imp
 
 * Lecture 1:
    https://colab.research.google.com/drive/1FWDPMLYXKqqPOrnYR6iq7aY0GRTrCV1d
+* Lecture 1:
+   https://colab.research.google.com/drive/13t9BS1RXsasbH_hNnXFMVwUUXNPTwQkb?usp=sharing
 
 ---
 
